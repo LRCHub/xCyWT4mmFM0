@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ノンデリシャス",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2026-02-26T08:50:47.760249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノンデリシャス",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_ノンデリシャス_猫又おかゆ.txt"
+    }
+  ]
+}
